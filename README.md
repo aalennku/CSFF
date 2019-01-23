@@ -7,7 +7,7 @@ before running this code, and npy files should be copied or linked to the folder
 They are not so much standarized. I'm sorry for any confusion that caused by these codes.
 Please contact me or open an issue if you have any question.
 
-3. If these codes help in your research, you may want to cite the following papers:
+3. If these codes help in your research, we recommend you to cite the following papers:
 
     @article{guo2018cnn,
         title={A CNN-based Spatial Feature Fusion Algorithm for Hyperspectral Imagery Classification},
