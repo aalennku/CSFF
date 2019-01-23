@@ -8,20 +8,22 @@ They are not so much standarized. I'm sorry for any confusion that caused by the
 Please contact me or open an issue if you have any question.
 
 3. If these codes help in your research, please cite the following papers:
-@article{guo2018cnn,
-    title={A CNN-based Spatial Feature Fusion Algorithm for Hyperspectral Imagery Classification},
-    author={Guo, Alan JX and Zhu, Fei},
-    journal={arXiv preprint arXiv:1801.10355},
-    year={2018}
-} ,
-@article{li2017hyperspectral,
-    title={Hyperspectral image classification using deep pixel-pair features},
-    author={Li, Wei and Wu, Guodong and Zhang, Fan and Du, Qian},
-    journal={IEEE Transactions on Geoscience and Remote Sensing},
-    volume={55},
-    number={2},
-    pages={844--853},
-    year={2017},
-    publisher={IEEE}
-}
+
+    @article{guo2018cnn,
+        title={A CNN-based Spatial Feature Fusion Algorithm for Hyperspectral Imagery Classification},
+        author={Guo, Alan JX and Zhu, Fei},
+        journal={arXiv preprint arXiv:1801.10355},
+        year={2018}
+    } ,
+
+    @article{li2017hyperspectral,
+        title={Hyperspectral image classification using deep pixel-pair features},
+        author={Li, Wei and Wu, Guodong and Zhang, Fan and Du, Qian},
+        journal={IEEE Transactions on Geoscience and Remote Sensing},
+        volume={55},
+        number={2},
+        pages={844--853},
+        year={2017},
+        publisher={IEEE}
+    }
 
