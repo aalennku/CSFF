@@ -9,11 +9,16 @@ Please contact me or open an issue if you have any question.
 
 3. If these codes help in your research, we recommend you to cite the following papers:
 
-    @article{guo2018cnn,
-        title={A CNN-based Spatial Feature Fusion Algorithm for Hyperspectral Imagery Classification},
-        author={Guo, Alan JX and Zhu, Fei},
-        journal={arXiv preprint arXiv:1801.10355},
-        year={2018}
+    @ARTICLE{guo2019cnn, 
+        author={A. J. X. {Guo} and F. {Zhu}},
+        journal={IEEE Transactions on Geoscience and Remote Sensing},
+        title={A CNN-Based Spatial Feature Fusion Algorithm for Hyperspectral Imagery Classification},
+        year={2019},
+        volume={57},
+        number={9},
+        pages={7170-7181},
+        doi={10.1109/TGRS.2019.2911993},
+        month={Sep.},
     } ,
 
     @article{li2017hyperspectral,
