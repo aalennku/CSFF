@@ -9,7 +9,7 @@ Please contact me or open an issue if you have any question.
 
 3. If these codes help in your research, we recommend you to cite the following papers:
 
-    '''
+    ```
     @ARTICLE{guo2019cnn, 
         author={A. J. X. {Guo} and F. {Zhu}},
         journal={IEEE Transactions on Geoscience and Remote Sensing},
@@ -21,11 +21,11 @@ Please contact me or open an issue if you have any question.
         doi={10.1109/TGRS.2019.2911993},
         month={Sep.},
     } 
-    '''
+    ```
     
     ,
 
-    '''
+    ```
     @article{li2017hyperspectral,
         title={Hyperspectral image classification using deep pixel-pair features},
         author={Li, Wei and Wu, Guodong and Zhang, Fan and Du, Qian},
@@ -36,5 +36,5 @@ Please contact me or open an issue if you have any question.
         year={2017},
         publisher={IEEE}
     }
-    '''
+    ```
 
